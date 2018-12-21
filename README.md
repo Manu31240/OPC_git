@@ -11,3 +11,6 @@ _italique_ est rendu italique
 **gras** est rendu gras
 **_gras-italique_** est rendu gras-italiques
 ~~barré~~ est rendu barré
+```
+Bloc de code
+```
