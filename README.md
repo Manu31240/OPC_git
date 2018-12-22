@@ -17,6 +17,8 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 | `git diff` | Show file differences that **haven't been** staged |
 |[Découvrez Mattermost!](https://about.mattermost.com/)| \[Découvrez Mattermost!](https://about.mattermost.com/)|
 |:smile: | \:smile:|
-| - | \-|
+| - | \pour les lignes -, *, =|
+|> bloc de citations| \> bloc de citations|
+| * élément un * élément deux  | \* élément un * élément deux |
 
 
