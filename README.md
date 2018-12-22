@@ -26,10 +26,10 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 * élément deux
   * sous-point élément deux 
 
-Rendu sous la forme :
-	• élément un
-	• élément deux
-		○ sous-point élément deux
+la commande:
+	\* élément un
+	\* élément deux
+  	\  * sous-point élément deux 
 
 Faire une liste ordonnée en utilisant des nombres à la place :
 1. Element un 
