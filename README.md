@@ -26,18 +26,18 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 * élément deux
   * sous-point élément deux 
 
-la commande:
-	\* élément un
-	\* élément deux
-  	\  * sous-point élément deux 
+la commande:</br>
+	\* élément un</br>
+	\* élément deux</br>
+  	\  * sous-point élément deux</br> 
 
 Faire une liste ordonnée en utilisant des nombres à la place :
 1. Element un 
 2. Element deux 
 
-Rendu sous la forme :
-	1. Element un
-	2. Element deux
+la commande :</br>
+	\1. Element un</br>
+	\2. Element deux</br>
 
 Faire une liste de tâches en incluant des crochets :
 - [ ] Element un 
