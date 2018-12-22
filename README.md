@@ -25,6 +25,7 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 * élément un
 * élément deux
  * sous-point élément deux 
+
 Rendu sous la forme :
 	• élément un
 	• élément deux
@@ -33,6 +34,7 @@ Rendu sous la forme :
 Faire une liste ordonnée en utilisant des nombres à la place :
 1. Element un 
 2. Element deux 
+
 Rendu sous la forme :
 	1. Element un
 	2. Element deux
@@ -43,7 +45,7 @@ Faire une liste de tâches en incluant des crochets :
 - [x] Element terminé 
 
 Rendu sous la forme :
-	•  Element un
+	•  Element un </br>
 	•  Element deux
 	•  Element terminé
 
