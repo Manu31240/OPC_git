@@ -29,7 +29,7 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 la commande:</br>
 	\* élément un</br>
 	\* élément deux</br>
-  	\  * sous-point élément deux</br> 
+  	   \* sous-point élément deux</br> 
 
 Faire une liste ordonnée en utilisant des nombres à la place :
 1. Element un 
@@ -44,8 +44,8 @@ Faire une liste de tâches en incluant des crochets :
 - [ ] Element deux 
 - [x] Element terminé 
 
-Rendu sous la forme :
-	•  Element un </br>
-	•  Element deux
-	•  Element terminé
+la commande : </br>
+	\- [ ] Element un</br> 
+	\- [ ] Element deux</br> 
+	\- [x] Element terminé</br>
 
