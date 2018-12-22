@@ -15,9 +15,8 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 |## Titre de niveau 2 | \## Titre de niveau 2|
 |### Titre de niveau 3| \### Titre de niveau 3|
 | `git diff` | Show file differences that **haven't been** staged |
+|[Découvrez Mattermost!](https://about.mattermost.com/)| \[Découvrez Mattermost!](https://about.mattermost.com/)|
+|:smile: | \:smile:|
+| - | \-|
 
 
-## les bonnes pratiques
-
-
-### les references
