@@ -9,10 +9,10 @@
 ~~barré~~ est rendu barré
 ```
 Bloc de code
-
 ```
 
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
+| `bloc code` | \`bloc code`|
+|```Bloc de code``` | \```Bloc de code```|
 | `git diff` | Show file differences that **haven't been** staged |
