@@ -24,7 +24,7 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 
 * élément un
 * élément deux
- * sous-point élément deux 
+  * sous-point élément deux 
 
 Rendu sous la forme :
 	• élément un
