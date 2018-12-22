@@ -13,6 +13,8 @@ Bloc de code
 
 | Command | Description |
 | --- | --- |
-| `bloc code` | \`bloc code`|
-|```Bloc de code``` | \```Bloc de code```|
+| `bloc code` | \`bloc code` dans le texte|
+|```
+Bloc de code
+``` | \```Bloc de code``` sur plusieurs ligne|
 | `git diff` | Show file differences that **haven't been** staged |
