@@ -8,13 +8,17 @@
 **_gras-italique_** est rendu gras-italiques
 ~~barré~~ est rendu barré
 ```
-Bloc de code
+Bloc de code sur plusieurs ligne \```Bloc de code```
 ```
 
-| Command | Description |
+| Commande | Description |
 | --- | --- |
 | `bloc code` | \`bloc code` dans le texte|
-|```
-Bloc de code
-``` | \```Bloc de code``` sur plusieurs ligne|
+|_italique_ | \_italique_|
+|**gras** | \**gras**|
+|**_gras-italique_** | \**_gras-italique_**|
 | `git diff` | Show file differences that **haven't been** staged |
+	• _italique_ est rendu italique
+	• **gras** est rendu gras
+	• **_gras-italique_** est rendu gras-italiques
+~~barré~~ est rendu barré
