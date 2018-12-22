@@ -19,6 +19,31 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 |:smile: | \:smile:|
 | - | \pour les lignes -, *, =|
 |> bloc de citations| \> bloc de citations|
-| * élément un * élément deux  | \* élément un * élément deux |
 
+## les listes
+
+* élément un
+* élément deux
+ * sous-point élément deux 
+Rendu sous la forme :
+	• élément un
+	• élément deux
+		○ sous-point élément deux
+
+Faire une liste ordonnée en utilisant des nombres à la place :
+1. Element un 
+2. Element deux 
+Rendu sous la forme :
+	1. Element un
+	2. Element deux
+
+Faire une liste de tâches en incluant des crochets :
+- [ ] Element un 
+- [ ] Element deux 
+- [x] Element terminé 
+
+Rendu sous la forme :
+	•  Element un
+	•  Element deux
+	•  Element terminé
 
