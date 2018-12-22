@@ -15,5 +15,9 @@ Bloc de code sur plusieurs ligne :```Bloc de code```
 |## Titre de niveau 2 | \## Titre de niveau 2|
 |### Titre de niveau 3| \### Titre de niveau 3|
 | `git diff` | Show file differences that **haven't been** staged |
-Titre de niveau 1 (balise H1)
-=============================
+
+
+## les bonnes pratiques
+
+
+### les references
