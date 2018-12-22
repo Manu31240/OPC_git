@@ -49,3 +49,5 @@ la commande : </br>
 	\- [ ] Element deux</br> 
 	\- [x] Element terminé</br>
 
+## les images
+![texte alternatif](lien "texte apparaissant au survol de la souris") et [![Statut de compilation](https://travis-ci.org/mattermost/mattermost-server.svg?branch=master)](https://travis-ci.org/mattermost/mattermost-server) [![Github](https://assets-cdn.github.com/favicon.ico)](https://github.com/mattermost/mattermost-server)
